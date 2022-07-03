@@ -3,7 +3,7 @@
 ## Instalação do Docker
 https://docs.docker.com/get-docker
 
-Instalando Docker Desktop no Windows: https://youtu.be/i_ZyYIdR02Q
+Instalando Docker Desktop no Windows 10: https://youtu.be/i_ZyYIdR02Q
 
 Versão do Docker
 ```
