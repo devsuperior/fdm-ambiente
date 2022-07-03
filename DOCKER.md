@@ -3,8 +3,6 @@
 ## Instalação do Docker
 https://docs.docker.com/get-docker
 
-Instalando Docker Desktop no Windows 10: https://youtu.be/i_ZyYIdR02Q
-
 Versão do Docker
 ```
 docker -v
@@ -13,10 +11,7 @@ Versão Docker Client e Docker Server (Daemon)
 ```
 docker version
 ```
-Informações detalhadas do estado atual do Docker
-```
-docker info
-```
+
 
 ## Imagens, containers e registry
 #### Imagem
