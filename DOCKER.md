@@ -197,3 +197,27 @@ Listar imagens de um usuário
 ```
 docker search <usuario>
 ```
+
+## Estudo de caso Docker Compose
+
+Estudo de caso: Postgres e pgAdmin
+
+Script:
+
+https://gist.github.com/acenelio/5e40b27cfc40151e36beec1e27c4ff71
+
+Subir a estrutura:
+
+``` 
+docker-compose up -d
+```
+
+Parar a estrutura:
+```
+docker-compose down
+```
+
+#### Dados de conexão para o pgAdmin
+- Host: pg-docker
+- Porta: 5432
+- Usuário: postgres
