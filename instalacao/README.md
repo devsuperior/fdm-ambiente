@@ -24,6 +24,6 @@
 - Heroku CLI
 
 ### TODOS (Ferramentas gráficas)
+- Postman: https://youtu.be/CWKLVapcnCU
 - VS Code
-- Postman
-- Intellij
+- Intellij Community
