@@ -3,17 +3,17 @@
 ## RESUMO:
 
 ### Base Windows
-- (Windows) WSL2 + Ubuntu + Windows Terminal
-- Docker Desktop
+- (Windows) WSL2 + Ubuntu + Windows Terminal: https://github.com/devsuperior/wsl-win10
+- Docker Desktop: https://docs.docker.com/get-docker
 
 ### Base Mac
 - Curl
 - Homebrew
-- Docker Desktop
+- Docker Desktop: https://docs.docker.com/get-docker
 
 ### Base Linux
 - Curl
-- Docker
+- Docker: https://docs.docker.com/engine/install/ubuntu
 
 ### TODOS (Terminal)
 - Git
