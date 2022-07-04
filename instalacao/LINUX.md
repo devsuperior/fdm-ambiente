@@ -103,17 +103,21 @@ https://devcenter.heroku.com/articles/heroku-cli
 ```
 
 ## VS Code
-
-```
 https://code.visualstudio.com/download
 
+Linux: https://youtu.be/THdaC99oNxw
+
+Windows: https://youtu.be/ZIoHacwWjLI
+```
 sudo snap install code --classic
 ```
 
 ## Postman
-- Instalar com snap: 
+Linux: https://youtu.be/CoEZ53Qim8E
+
+Windows: https://youtu.be/CWKLVapcnCU
 ```
-snap install postman
+sudo snap install postman
 ```
 
 ## Intellij Community
