@@ -20,9 +20,10 @@
 
 ### Edição
 
+- CTRL+Espaço (auto completar)
 - ALT+INSERT (criar construtor, get/set, etc.)
 - CTRL+ALT+L (auto-indentação)
-- CTRL+ALT+O (auto-import)
+- Settings/Preferences (Ctrl+Alt+S) -> Editor -> General -> Auto Import (Add unambiguous imports on the fly / Optimeze imports on the fly)
 
 ### Acesso à pasta do Linux
 
